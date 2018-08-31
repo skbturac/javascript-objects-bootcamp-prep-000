@@ -1,5 +1,5 @@
 var playlist = {
-  "Rafet Elroman": "Bana Sen Lazimsin",
+  "My Bloody Valentine": "Bana Sen Lazimsin",
   "Ahmet Kaya":"Kum Gibi"
 };
 
