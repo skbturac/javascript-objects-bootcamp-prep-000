@@ -4,3 +4,7 @@ var playlist = {
 };
 
 var updatePlaylist = {playlist, artistName, songTitle: "songTitle"};
+
+function removeFromPlaylist (playlist, artistName){
+delete playlist[artistName]
+}
