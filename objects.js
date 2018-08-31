@@ -3,8 +3,9 @@ var playlist = {
   "Ahmet Kaya":"Kum Gibi"
 };
 
-var updatePlaylist = {playlist, artistName, songTitle: "songTitle"};
+var updatePlaylist = {playlist, artistName, songTitle: "songTitle"
+};
 
 function removeFromPlaylist (playlist, artistName){
-delete playlist[artistName]
+delete playlist[artistName];
 }
