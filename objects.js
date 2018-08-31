@@ -4,8 +4,8 @@
   //return playlist;
 
 var playlist = {
-  //"Slowdive": "Alison",
- // "My Bloody Valentine":"Sometimes"
+  "Slowdive": "Alison",
+  "My Bloody Valentine":"Sometimes"
 };
 
 function updatePlaylist(playlist, ArtistName, SongTitle ){
